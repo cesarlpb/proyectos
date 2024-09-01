@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Log Entries</title>
+</head>
+<body>
+    <h1>Log Entries</h1>
+    <ul>
+        {% for log in logs %}
+        <li>{{ log.title }}: {{ log.duration }}</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'log_create' %}">Create New Log</a>
+</body>
+</html>
