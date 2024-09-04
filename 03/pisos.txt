@@ -1,0 +1,863 @@
+Contenido cargado correctamente.
+Está buscando un Pisos en alquiler
+Ordenar por: Últimos modificados
+Últimos modificados
+Precio ascendente
+Precio descendente
+Superficie ascendente
+Superficie descendente
+Dormitorios ascendente
+Dormitorios descendente
+Baños ascendente
+Baños descendente
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+Ver: 12 inmuebles
+12 inmuebles
+24 inmuebles
+48 inmuebles
+96 inmuebles
+Prev
+1
+Sig
+Está buscando un Pisos en alquiler
+Ordenar por: Últimos modificados
+Últimos modificados
+Precio ascendente
+Precio descendente
+Superficie ascendente
+Superficie descendente
+Dormitorios ascendente
+Dormitorios descendente
+Baños ascendente
+Baños descendente
+Está buscando un Pisos en alquiler
+Está buscando un Pisos en alquiler
+Ordenar por: Últimos modificados
+Últimos modificados
+Precio ascendente
+Precio descendente
+Superficie ascendente
+Superficie descendente
+Dormitorios ascendente
+Dormitorios descendente
+Baños ascendente
+Baños descendente
+Ordenar por: Últimos modificados
+Últimos modificados
+Precio ascendente
+Precio descendente
+Superficie ascendente
+Superficie descendente
+Dormitorios ascendente
+Dormitorios descendente
+Baños ascendente
+Baños descendente
+
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+NOVEDAD
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 4 |  baños: 2
+1.123 €/mes
+1.123 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+
+
+
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+Piso en alquiler en Barcelona (Horta-Guinardó)
+Piso en alquiler en Barcelona (Horta-Guinardó)
+100m2  |  dormitorios: 4 |  baños: 2
+100m2  |  dormitorios: 4 |  baños: 2
+1.213 €/mes
+1.213 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+
+
+
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+Piso en alquiler en Barcelona (Sarrià-Sant Gervasi)
+147m2  |  dormitorios: 3 |  baños: 2
+147m2  |  dormitorios: 3 |  baños: 2
+1.550 €/mes
+1.550 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+
+
+
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+Piso en alquiler en Barcelona (L'Eixample )
+107m2  |  dormitorios: 3 |  baños: 1
+107m2  |  dormitorios: 3 |  baños: 1
+1.400 €/mes
+1.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+
+
+
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+Piso en alquiler en Barcelona (L'Eixample )
+169m2  |  dormitorios: 4 |  baños: 3
+169m2  |  dormitorios: 4 |  baños: 3
+3.400 €/mes
+3.400 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+
+
+
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+Piso en alquiler en Barcelona (Sant Martí)
+Piso en alquiler en Barcelona (Sant Martí)
+54m2  |  dormitorios: 3 |  baños: 1
+54m2  |  dormitorios: 3 |  baños: 1
+972 €/mes
+972 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+
+
+
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+Piso en alquiler en Barcelona (L'Eixample )
+69m2  |  dormitorios: 3 |  baños: 1
+69m2  |  dormitorios: 3 |  baños: 1
+966 €/mes
+966 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+
+
+
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+Piso en alquiler en Barcelona (L'Eixample )
+Piso en alquiler en Barcelona (L'Eixample )
+143m2  |  dormitorios: 3 |  baños: 3
+143m2  |  dormitorios: 3 |  baños: 3
+2.100 €/mes
+2.100 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+
+
+
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+Piso en alquiler en Barcelona (Ciutat Vella)
+Piso en alquiler en Barcelona (Ciutat Vella)
+58m2  |  dormitorios: 3 |  baños: 1
+58m2  |  dormitorios: 3 |  baños: 1
+1.042 €/mes
+1.042 €/mes
+
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+Ref
+Tipo
+Zona
+Precio
+Superficie
+Dormitorios
+Baños
+13351
+Piso
+La Nova Esquerra de L'Eixample
+
+1.123 €/mes
+69
+4
+2
+13421
+Piso
+El Guinardó
+
+1.213 €/mes
+100
+4
+2
+12116
+Piso
+El Putxet i El Farró
+
+1.550 €/mes
+147
+3
+2
+12814
+Piso
+L'Antiga Esquerra de L'Eixample
+
+1.400 €/mes
+107
+3
+1
+13369
+Piso
+La Dreta de L'Eixample
+
+3.400 €/mes
+169
+4
+3
+13114
+Piso
+El Poblenou
+
+972 €/mes
+54
+3
+1
+13190
+Piso
+Sant Antoni
+
+966 €/mes
+69
+3
+1
+13030
+Piso
+L'Antiga Esquerra de L'Eixample
+
+2.100 €/mes
+143
+3
+3
+13278
+Piso
+St.Pere, Sta. Caterina i la Ribera
+
+1.042 €/mes
+58
+3
+1
+
+
+
+
+
+
+
+
+
+
+
+
+Ver: 12 inmuebles
+12 inmuebles
+24 inmuebles
+48 inmuebles
+96 inmuebles
+Prev
+1
+Sig
+Ver: 12 inmuebles
+12 inmuebles
+24 inmuebles
+48 inmuebles
+96 inmuebles
+Prev
+1
+Sig
+Ver: 12 inmuebles
+12 inmuebles
+24 inmuebles
+48 inmuebles
+96 inmuebles
+Prev
+1
+Sig
+

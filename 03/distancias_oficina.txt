@@ -1,0 +1,180 @@
+Ciudad: Badalona
+  Distancia: 17.0 km
+  Duración en coche: 26 mins
+----------------------------------------
+Ciudad: Barcelona
+  Distancia: 5.0 km
+  Duración en coche: 18 mins
+----------------------------------------
+Ciudad: Bigues I Riells
+  Distancia: 45.2 km
+  Duración en coche: 45 mins
+----------------------------------------
+Ciudad: Canovelles
+  Distancia: 7.2 km
+  Duración en coche: 16 mins
+----------------------------------------
+Ciudad: Canoves
+  Distancia: 6.5 km
+  Duración en coche: 16 mins
+----------------------------------------
+Ciudad: Cardedeu
+  Distancia: 41.4 km
+  Duración en coche: 42 mins
+----------------------------------------
+Ciudad: Castellar del Vallès
+  Distancia: 37.7 km
+  Duración en coche: 45 mins
+----------------------------------------
+Ciudad: Cervello
+  Distancia: 5.7 km
+  Duración en coche: 23 mins
+----------------------------------------
+Ciudad: Corbera De Llobregat
+  Distancia: 22.3 km
+  Duración en coche: 25 mins
+----------------------------------------
+Ciudad: Cornella De Llobregat
+  Distancia: 11.1 km
+  Duración en coche: 15 mins
+----------------------------------------
+Ciudad: Dosrius
+  Distancia: 8.2 km
+  Duración en coche: 15 mins
+----------------------------------------
+Ciudad: El Papiol
+  Distancia: 17.3 km
+  Duración en coche: 22 mins
+----------------------------------------
+Ciudad: El Pont De Vilomara i Rocafort
+  Distancia: 52.0 km
+  Duración en coche: 45 mins
+----------------------------------------
+Ciudad: Esparreguera
+  Distancia: 38.8 km
+  Duración en coche: 36 mins
+----------------------------------------
+Ciudad: Granollers
+  Distancia: 33.2 km
+  Duración en coche: 35 mins
+----------------------------------------
+Ciudad: Les Franqueses Del Valles
+  Distancia: 42.5 km
+  Duración en coche: 40 mins
+----------------------------------------
+Ciudad: L'Hospitalet de Llobregat
+  Distancia: 4.1 km
+  Duración en coche: 17 mins
+----------------------------------------
+Ciudad: Llagosta, La
+  Distancia: 19.5 km
+  Duración en coche: 26 mins
+----------------------------------------
+Ciudad: Llinars del Valles
+  Distancia: 41.9 km
+  Duración en coche: 42 mins
+----------------------------------------
+Ciudad: Manresa
+  Distancia: 56.6 km
+  Duración en coche: 52 mins
+----------------------------------------
+Ciudad: Matadepera
+  Distancia: 34.9 km
+  Duración en coche: 38 mins
+----------------------------------------
+Ciudad: Molins De Rei
+  Distancia: 15.1 km
+  Duración en coche: 21 mins
+----------------------------------------
+Ciudad: Montcada I Reixac
+  Distancia: 16.6 km
+  Duración en coche: 24 mins
+----------------------------------------
+Ciudad: Palleja
+  Distancia: 15.1 km
+  Duración en coche: 17 mins
+----------------------------------------
+Ciudad: Parets del Valles
+  Distancia: 26.9 km
+  Duración en coche: 28 mins
+----------------------------------------
+Ciudad: Pineda De Mar
+  Distancia: 61.0 km
+  Duración en coche: 48 mins
+----------------------------------------
+Ciudad: Rellinars
+  Distancia: 44.1 km
+  Duración en coche: 48 mins
+----------------------------------------
+Ciudad: Ripollet
+  Distancia: 19.9 km
+  Duración en coche: 26 mins
+----------------------------------------
+Ciudad: Rubí
+  Distancia: 19.7 km
+  Duración en coche: 26 mins
+----------------------------------------
+Ciudad: Sabadell
+  Distancia: 28.2 km
+  Duración en coche: 35 mins
+----------------------------------------
+Ciudad: Sant Adrià de Besòs
+  Distancia: 16.8 km
+  Duración en coche: 24 mins
+----------------------------------------
+Ciudad: Sant Antoni de Vilamajor
+  Distancia: 48.0 km
+  Duración en coche: 46 mins
+----------------------------------------
+Ciudad: Sant Boi de Llobregat
+  Distancia: 13.7 km
+  Duración en coche: 21 mins
+----------------------------------------
+Ciudad: Sant Feliu de Llobregat
+  Distancia: 7.6 km
+  Duración en coche: 16 mins
+----------------------------------------
+Ciudad: Sant Fost de Campsentelles
+  Distancia: 27.6 km
+  Duración en coche: 32 mins
+----------------------------------------
+Ciudad: Sant Joan Despi
+  Distancia: 9.7 km
+  Duración en coche: 16 mins
+----------------------------------------
+Ciudad: Sant Pere de Vilamajor
+  Distancia: 49.1 km
+  Duración en coche: 47 mins
+----------------------------------------
+Ciudad: Sant Vicenç Dels Horts
+  Distancia: 12.7 km
+  Duración en coche: 17 mins
+----------------------------------------
+Ciudad: Talamanca
+  Distancia: 75.8 km
+  Duración en coche: 1 hour 27 mins
+----------------------------------------
+Ciudad: Terrassa
+  Distancia: 24.4 km
+  Duración en coche: 30 mins
+----------------------------------------
+Ciudad: Ullastrell
+  Distancia: 28.9 km
+  Duración en coche: 33 mins
+----------------------------------------
+Ciudad: Vacarisses
+  Distancia: 12.0 km
+  Duración en coche: 22 mins
+----------------------------------------
+Ciudad: Vallirana
+  Distancia: 24.2 km
+  Duración en coche: 23 mins
+----------------------------------------
+Ciudad: Vallromanes
+  Distancia: 30.1 km
+  Duración en coche: 37 mins
+----------------------------------------
+Ciudad: Viladecavalls
+  Distancia: 11.8 km
+  Duración en coche: 21 mins
+----------------------------------------

@@ -1,0 +1,180 @@
+Ciudad: Talamanca
+  Duración 1 en coche: 1 mins
+  Duración 2 en coche: 1 mins
+----------------------------------------
+Ciudad: Cornella De Llobregat
+  Duración 1 en coche: 15 mins
+  Duración 2 en coche: 12 mins
+----------------------------------------
+Ciudad: Dosrius
+  Duración 1 en coche: 15 mins
+  Duración 2 en coche: 22 mins
+----------------------------------------
+Ciudad: Canovelles
+  Duración 1 en coche: 16 mins
+  Duración 2 en coche: 22 mins
+----------------------------------------
+Ciudad: Sant Joan Despi
+  Duración 1 en coche: 16 mins
+  Duración 2 en coche: 15 mins
+----------------------------------------
+Ciudad: Canoves
+  Duración 1 en coche: 16 mins
+  Duración 2 en coche: 22 mins
+----------------------------------------
+Ciudad: Sant Feliu de Llobregat
+  Duración 1 en coche: 16 mins
+  Duración 2 en coche: 21 mins
+----------------------------------------
+Ciudad: Palleja
+  Duración 1 en coche: 17 mins
+  Duración 2 en coche: 19 mins
+----------------------------------------
+Ciudad: L'Hospitalet de Llobregat
+  Duración 1 en coche: 17 mins
+  Duración 2 en coche: 16 mins
+----------------------------------------
+Ciudad: Sant Vicenç Dels Horts
+  Duración 1 en coche: 17 mins
+  Duración 2 en coche: 18 mins
+----------------------------------------
+Ciudad: Barcelona
+  Duración 1 en coche: 18 mins
+  Duración 2 en coche: 21 mins
+----------------------------------------
+Ciudad: Viladecavalls
+  Duración 1 en coche: 21 mins
+  Duración 2 en coche: 27 mins
+----------------------------------------
+Ciudad: Sant Boi de Llobregat
+  Duración 1 en coche: 21 mins
+  Duración 2 en coche: 14 mins
+----------------------------------------
+Ciudad: Molins De Rei
+  Duración 1 en coche: 21 mins
+  Duración 2 en coche: 23 mins
+----------------------------------------
+Ciudad: Vacarisses
+  Duración 1 en coche: 22 mins
+  Duración 2 en coche: 28 mins
+----------------------------------------
+Ciudad: El Papiol
+  Duración 1 en coche: 22 mins
+  Duración 2 en coche: 24 mins
+----------------------------------------
+Ciudad: Vallirana
+  Duración 1 en coche: 23 mins
+  Duración 2 en coche: 25 mins
+----------------------------------------
+Ciudad: Cervello
+  Duración 1 en coche: 23 mins
+  Duración 2 en coche: 17 mins
+----------------------------------------
+Ciudad: Sant Adrià de Besòs
+  Duración 1 en coche: 24 mins
+  Duración 2 en coche: 21 mins
+----------------------------------------
+Ciudad: Montcada I Reixac
+  Duración 1 en coche: 24 mins
+  Duración 2 en coche: 30 mins
+----------------------------------------
+Ciudad: Corbera De Llobregat
+  Duración 1 en coche: 25 mins
+  Duración 2 en coche: 26 mins
+----------------------------------------
+Ciudad: Rubí
+  Duración 1 en coche: 26 mins
+  Duración 2 en coche: 30 mins
+----------------------------------------
+Ciudad: Llagosta, La
+  Duración 1 en coche: 26 mins
+  Duración 2 en coche: 32 mins
+----------------------------------------
+Ciudad: Ripollet
+  Duración 1 en coche: 26 mins
+  Duración 2 en coche: 32 mins
+----------------------------------------
+Ciudad: Badalona
+  Duración 1 en coche: 26 mins
+  Duración 2 en coche: 26 mins
+----------------------------------------
+Ciudad: Parets del Valles
+  Duración 1 en coche: 28 mins
+  Duración 2 en coche: 34 mins
+----------------------------------------
+Ciudad: Terrassa
+  Duración 1 en coche: 30 mins
+  Duración 2 en coche: 36 mins
+----------------------------------------
+Ciudad: Sant Fost de Campsentelles
+  Duración 1 en coche: 32 mins
+  Duración 2 en coche: 38 mins
+----------------------------------------
+Ciudad: Ullastrell
+  Duración 1 en coche: 33 mins
+  Duración 2 en coche: 37 mins
+----------------------------------------
+Ciudad: Granollers
+  Duración 1 en coche: 35 mins
+  Duración 2 en coche: 42 mins
+----------------------------------------
+Ciudad: Sabadell
+  Duración 1 en coche: 35 mins
+  Duración 2 en coche: 42 mins
+----------------------------------------
+Ciudad: Esparreguera
+  Duración 1 en coche: 36 mins
+  Duración 2 en coche: 37 mins
+----------------------------------------
+Ciudad: Vallromanes
+  Duración 1 en coche: 37 mins
+  Duración 2 en coche: 40 mins
+----------------------------------------
+Ciudad: Matadepera
+  Duración 1 en coche: 38 mins
+  Duración 2 en coche: 43 mins
+----------------------------------------
+Ciudad: Les Franqueses Del Valles
+  Duración 1 en coche: 40 mins
+  Duración 2 en coche: 46 mins
+----------------------------------------
+Ciudad: Llinars del Valles
+  Duración 1 en coche: 42 mins
+  Duración 2 en coche: 48 mins
+----------------------------------------
+Ciudad: Cardedeu
+  Duración 1 en coche: 42 mins
+  Duración 2 en coche: 48 mins
+----------------------------------------
+Ciudad: El Pont De Vilomara i Rocafort
+  Duración 1 en coche: 45 mins
+  Duración 2 en coche: 50 mins
+----------------------------------------
+Ciudad: Bigues I Riells
+  Duración 1 en coche: 45 mins
+  Duración 2 en coche: 51 mins
+----------------------------------------
+Ciudad: Castellar del Vallès
+  Duración 1 en coche: 45 mins
+  Duración 2 en coche: 52 mins
+----------------------------------------
+Ciudad: Sant Antoni de Vilamajor
+  Duración 1 en coche: 46 mins
+  Duración 2 en coche: 53 mins
+----------------------------------------
+Ciudad: Sant Pere de Vilamajor
+  Duración 1 en coche: 47 mins
+  Duración 2 en coche: 53 mins
+----------------------------------------
+Ciudad: Pineda De Mar
+  Duración 1 en coche: 48 mins
+  Duración 2 en coche: 52 mins
+----------------------------------------
+Ciudad: Rellinars
+  Duración 1 en coche: 48 mins
+  Duración 2 en coche: 51 mins
+----------------------------------------
+Ciudad: Manresa
+  Duración 1 en coche: 52 mins
+  Duración 2 en coche: 55 mins
+----------------------------------------
