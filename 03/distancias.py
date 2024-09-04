@@ -1,13 +1,21 @@
 import googlemaps
 
 # Reemplaza con tu clave API de Google Maps
-API_KEY = 'api_key'
+with open('.env') as f:
+    lines = f.read().splitlines()
+
+ENV = {}
+for line in lines:
+    k, v = line.split('=')
+    ENV[k] = v
+
+API_KEY = ENV.get('GOOGLE_API_KEY', 'missing Google api key will throw error')
 
 # Inicializa el cliente de Google Maps
 gmaps = googlemaps.Client(key=API_KEY)
 
 # Dirección de origen
-origen = "<dirección, provincia, país>"
+origen = "El Prat de Llobregat, Barcelona, Spain" # "<dirección, provincia, país>"
 
 # Lista de ciudades
 ciudades = [
