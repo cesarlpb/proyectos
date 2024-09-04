@@ -6,8 +6,14 @@
 <body>
     <h1>Log Entries</h1>
     <ul>
+        {% load tz %}  <!-- Carga el templatetag para manejo de zona horaria -->
         {% for log in logs %}
-        <li>{{ log.title }}: {{ log.duration }}</li>
+        <li>
+            <strong>{{ log.title }}</strong><br>
+            Start Time: {% timezone "Europe/Berlin" %}{{ log.start_time }}{% endtimezone %}<br>
+            End Time: {% timezone "Europe/Berlin" %}{{ log.end_time }}{% endtimezone %}<br>
+            Duration: {{ log.duration }}
+        </li>
         {% endfor %}
     </ul>
     <a href="{% url 'log_create' %}">Create New Log</a>

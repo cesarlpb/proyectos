@@ -7,6 +7,6 @@ class WorkLogForm(forms.ModelForm):
         model = WorkLog
         fields = ['title', 'description', 'start_time', 'end_time']
         widgets = {
-            'start_time': DateTimePickerInput(),
-            'end_time': DateTimePickerInput(),
+            'start_time': DateTimePickerInput(attrs={'type': 'datetime-local'}),
+            'end_time': DateTimePickerInput(attrs={'type': 'datetime-local'}),
         }

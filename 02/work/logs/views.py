@@ -1,4 +1,7 @@
 from django.urls import reverse_lazy
+from django.utils import timezone
+from pytz import timezone as pytz_timezone
+
 from django.views.generic import ListView, CreateView
 from logs.forms import WorkLogForm
 from logs.models import WorkLog
@@ -24,6 +27,8 @@ class WorkLogCreateView(CreateView):
 
     def form_valid(self, form):
         log = form.save(commit=False)
+
+        # Solo guardar en UTC, Django lo maneja automáticamente
         log.duration = log.end_time - log.start_time
         log.save()
         return super().form_valid(form)
