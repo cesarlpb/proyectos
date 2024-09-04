@@ -2,7 +2,20 @@ from requests_html import HTMLSession
 
 session = HTMLSession()
 # URL de la página a analizar
-url = 'https://www.guinotprunera.com/es/alquiler-pisos-pisos/en-barcelona-barcelona/<params>'
+
+with open('.env') as f:
+    lines = f.read().splitlines()
+
+ENV = {}
+for line in lines:
+    k, v = line.split('=')
+    ENV[k] = v
+
+PARAMS = ENV.get('PARAMS', 'si no hay params se busca con string vacío, sin filtros')
+if not PARAMS or PARAMS.startwith('si no hay params'):
+    PARAMS = ''
+
+url = f'https://www.guinotprunera.com/es/alquiler-pisos-pisos/en-barcelona-barcelona/{PARAMS}'
 response = session.get(url)
 
 response.html.render(wait=2)  # Renderiza la página, ejecutando JavaScript
