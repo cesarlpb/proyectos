@@ -38,7 +38,9 @@ Progreso: 3 / 100
   - TODO: bucle para scrapear toda la web usando lista de ciudades
 
 4. 04.09.24: [Benchmark de servidores web](./04/)
+
   **Terminal** _reporte de resultados en PDF_
+  
   - Benchmark de GET de 10, 100, 1000, 10_000 usuarios en el mismo formato en HTML
   - Django:
     - sirviendo templates
